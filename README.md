@@ -24,12 +24,10 @@ Below is an example visualization of our K-Prism framework:
 ## Citation
 
 ```bibtex
-@inproceedings{guo2025verse,
-  title={Verse: Integrating multiple queries as prompts for versatile cardiac mri segmentation},
-  author={Guo, Bangwei and Ye, Meng and Gao, Yunhe and Xin, Bingyu and Axel, Leon and Metaxas, Dimitris},
-  booktitle={International Conference on Information Processing in Medical Imaging},
-  pages={373--387},
-  year={2025},
-  organization={Springer}
+@article{guo2025k,
+  title={K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model},
+  author={Guo, Bangwei and Gao, Yunhe and Ye, Meng and Gu, Difei and Zhou, Yang and Axel, Leon and Metaxas, Dimitris},
+  journal={arXiv preprint arXiv:2509.25594},
+  year={2025}
 }
 ```
