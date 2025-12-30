@@ -14,7 +14,7 @@ Medical image segmentation is fundamental to clinical decision-making, yet ex- i
 ## Example
 Below is an example visualization of our K-Prism framework:
 
-![K-Prism Framework](figure1.pdf)
+![K-Prism Framework](figure2.jpg)
 
 ## Updates
 *  Code will be released upon publication
