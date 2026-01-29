@@ -17,6 +17,7 @@ Below is an example visualization of our K-Prism framework:
 ![K-Prism Framework](figure2.jpg)
 
 ## Updates
+*  [2026-01-26] Our paper is accepted by ICLR2026!
 *  Code will be released upon publication
 
 
