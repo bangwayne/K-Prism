@@ -21,6 +21,46 @@ Below is an example visualization of our K-Prism framework:
 *  [2026-01-26] Our paper is accepted by ICLR2026!
 *  Code will be released upon publication
 
+## Quick Start
+
+### Prepare the environment.
+
+Install required python packages: `pip install -r requirements.txt`
+
+### Prepare datasets
+
+Please download the original datasets from their official website.
+
+
+```bash
+└── datasets
+     ├── AMOS_MRI
+     │   ├── train
+     │   │   ├── image
+     │   │       ├── patient001.nii.gz
+     │   │       └── ...
+     │   │   ├── annotations
+     │   │       ├── patient001_gt.nii.gz
+     │   │       └── ...
+     │   ├── test
+     │       ├── image
+     │       ├── annotations
+     ├── MM
+     │   ├── train
+     │   └── test
+
+```
+
+### Training
+The training configurations are under `kprism/config/train_config.yaml`. The model configurations are under `kprism/config/model`.
+
+To train the model: `sh train.sh`
+
+
+### Evaluation
+The testing configurations are under `kprism/config/eval_config.yaml`.
+
+To evaluate the model: `sh run_eval.sh`
 
 
 ## Citation
