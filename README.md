@@ -33,7 +33,7 @@ Install required python packages: `pip install -r requirements.txt`
 Please download the original datasets from their official websites and organize them following the structure below.
 
 #### Important:
-For dataset preprocessing, please refer to the details described in our paper. In general, the input images should be preprocessed consistently with the experimental setup in the paper, and the image intensities should be normalized to the range of 0–255 before training or evaluation. Since different datasets and modalities may have different intensity distributions and conventions, users are encouraged to carefully follow the preprocessing protocol in the paper to ensure reproducibility.
+For dataset preprocessing, please refer to the details described in our paper. In general, the input images should be preprocessed consistently with the experimental setup in the paper, and the image intensities should be normalized to the range of 0–255 before training or evaluation. 
 
 
 ```bash
