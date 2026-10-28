@@ -282,12 +282,12 @@ dataset_weight: {"AMOS_MRI": 0.3, "MM": 0.1, ...}  # sampling weight per dataset
 ## Citation
 
 ```bibtex
-@inproceedings{
-guo2026kprism,
-title={K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model},
-author={Bangwei Guo and Yunhe Gao and Meng Ye and Difei Gu and Yang Zhou and Leon Axel and Dimitris N. Metaxas},
-booktitle={The Fourteenth International Conference on Learning Representations},
-year={2026},
-url={https://openreview.net/forum?id=gvRf95K4im}
+@inproceedings{guo2026k,
+  title={K-prism: A knowledge-guided and prompt integrated universal medical image segmentation model},
+  author={Guo, Bangwei and Gao, Yunhe and Ye, Meng and Gu, Difei and Zhou, Yang and Axel, Leon and Metaxas, Dimitris},
+  booktitle={International Conference on Learning Representations},
+  volume={2026},
+  pages={146455--146480},
+  year={2026}
 }
 ```
